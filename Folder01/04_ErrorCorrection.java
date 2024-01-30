@@ -1,4 +1,4 @@
-class Main { 
+class ErrorCorrection { 
     // compute the area of a circle
     public static void main(String [] args)
       radius = 6;
