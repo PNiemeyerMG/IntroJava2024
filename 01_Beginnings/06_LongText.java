@@ -9,6 +9,8 @@ class LongText {
     System.out.println("+ symbols can be used both for math and for \"Concatination\".");
     System.out.println("There are two symbols that break text: \\ and \". The former 
       is called an escape character, and the latter signals the end of the Sting.");
+    // Something strange is going on on in the next two lines of code. 
+    // What do you think is happening? How might we "fix it"?
     System.out.println(23 + 15);
     System.out.println(23 + " + " + 15 + " = " + 23 + 15);
   }   
