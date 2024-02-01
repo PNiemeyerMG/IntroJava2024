@@ -7,7 +7,7 @@ class Calculate {
         int second = 2;
 
         // Addition
-        // Note**** An int plus and int is an int
+        // Note*** An int plus and int is an int
         // An int plus a double is a double
         // A double plu a double is a double
         int sum = first + second;
