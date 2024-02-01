@@ -2,7 +2,7 @@
 class Fahrenheit {
     public static void main(String[] args) {
         // Starting F value
-        double f = 212;
+        double fa = 212;
 
         // Convert with formula
         // Subtract 32 then multiply by 5 / 9
