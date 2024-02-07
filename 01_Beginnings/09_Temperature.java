@@ -4,6 +4,6 @@ class Temperature {
         // Declare two variables 'fahrenheit' and 'celsius'
         // Convert with the following formula:
         // Subtract 32 then multiply by 5 / 9
-        // Print the result ina statement hat is clear to the user
+        // Print the result in a statement that is clear to the user
     }
 }
