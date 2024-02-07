@@ -1,4 +1,8 @@
-// Converts Fahrenheit to Celsius
+/*
+Name:
+Date:
+Program: Converts Fahrenheit to Celsius
+*/
 class Temperature {
     public static void main(String[] args) {
         // Declare two variables 'fahrenheit' and 'celsius'
