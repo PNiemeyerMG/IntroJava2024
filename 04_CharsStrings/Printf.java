@@ -10,11 +10,11 @@ note the last example. There is an 8.1 after the % and before the f.
 
 class Printf {
 		public static void main(String[] args) {
-				int n = 12;
+				int number = 12;
 				String day = "Monday";
 				double temp = 64.45673265;
-				System.out.printf("Today is %s and there are %d students present%n", day, n);
-				System.out.printf("Today is %S and there are %d students present%n", day, n);
+				System.out.printf("Today is %s and there are %d students present%n", day, number);
+				System.out.printf("Today is %S and there are %d students present%n", day, number);
 				System.out.printf("The temperature today is %f%n", temp);
 				System.out.printf("The temperature today is %8.1f%n", temp);
 		}
